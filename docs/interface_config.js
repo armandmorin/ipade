@@ -34,7 +34,7 @@ var interfaceConfig = {
   "OFMEET_WELCOME_PAGE_TOOLBARCONTENT": "qerbvirtual",
   "RANDOM_AVATAR_URL_PREFIX": "",
   "RANDOM_AVATAR_URL_SUFFIX": "",
-  "RECENT_LIST_ENABLED": true,
+  "RECENT_LIST_ENABLED": false,
   "REMOTE_THUMBNAIL_RATIO": 1,
   "SETTINGS_SECTIONS": [
     "language",
