@@ -79,6 +79,6 @@ var interfaceConfig = {
   ],
   "TOOLBAR_TIMEOUT": 4000,
   "VERTICAL_FILMSTRIP": true,
-  "VIDEO_LAYOUT_FIT": "both",
+  "VIDEO_LAYOUT_FIT": "height",
   "filmStripOnly": false,
 };
